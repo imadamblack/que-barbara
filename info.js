@@ -23,7 +23,7 @@ export const info = {
     city: '',
     state: '',
   },
-  surveyWebhook: 'https://n8n.notoriovs.com/webhook-test/369d3154-5bd7-48ad-ae20-3add98b640bc',
+  surveyWebhook: 'https://n8n.notoriovs.com/webhook/369d3154-5bd7-48ad-ae20-3add98b640bc',
   schedulerLink: '',
   privacyNotice: '/aviso-privacidad',
   termsConditions: '/aviso-privacidad',
